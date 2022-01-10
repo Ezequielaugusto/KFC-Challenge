@@ -112,7 +112,7 @@ position: relative;
     display: none;
 
 }
-.slider .slides .active
+.slider .slidesactive
 {
     display: block;
 }
